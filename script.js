@@ -14,7 +14,14 @@ const messages = [
   "Are you like 100% sure?",
   "Maybe 110%?",
   "Oh.... ok...",
-  "Yes"
+  "but like are you really sure?",
+  "okay but seriously just hit yes",
+  "I know you are just playing now",
+  "how about this, ill make it easier",
+  "Yeah, no",
+  "damn okay, i see you understand Canadian slang well",
+  "how about i do something else?",
+  "❤️ Yes"
 ];
 
 yesButton.addEventListener("click", () => {
